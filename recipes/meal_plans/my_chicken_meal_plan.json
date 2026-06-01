@@ -1,0 +1,19 @@
+{
+  "plan_name": "My Chicken Meal Plan",
+  "created_date": "2026-05-29T14:19:27.491092",
+  "total_recipes": 2,
+  "recipes": [
+    {
+      "id": "52956",
+      "name": "Chicken Congee",
+      "cuisine": "Chinese",
+      "category": "Chicken"
+    },
+    {
+      "id": "53110",
+      "name": "Sticky Chicken",
+      "cuisine": "Australian",
+      "category": "Chicken"
+    }
+  ]
+}

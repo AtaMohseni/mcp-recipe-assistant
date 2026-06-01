@@ -1,0 +1,10 @@
+[project]
+name = "mcp-recipe-final"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "mcp[cli]>=1.27.2",
+    "requests>=2.34.2",
+]
